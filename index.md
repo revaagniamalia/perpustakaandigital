@@ -4,7 +4,7 @@ Berikut ini adalah Koleksi yang dimiliki:
 ## Koleksi
 1. [Arsip Dinamis Data Pariwisata](ebook/Arsip Dinamis Data Pariwisata.pdf) – Ramen A. Purba, dkk (2020) 
 2. [Animal Farm](ebook/Animal Farm.pdf) – George Orwell (1945)
-3. [The Little Prince] (ebook/The Little Prince.pdf) – Antoine de Saint-Exupéry (1944)
+3. [The Little Prince](ebook/The Little Prince.pdf) – Antoine de Saint-Exupéry (1944)
 4. [Pride and Prejudice (Jane Austen)](ebook/Pride and Prejudice (Jane Austen).pdf) - Jane Austine (1813)
 5. [Hilmy Milan](ebook/Hilmy Milan.pdf) - Nadia Ristivani (2021)
 6. [Bumi](ebook/Bumi.pdf) - Tere Liye (2014)
